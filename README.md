@@ -87,7 +87,7 @@ plt.show()
 
 ### 4. Boxplot
 
-![Boxplot](exp2-3.png)
+![Boxplot](Exp2-3.png)
 
 
 ## result
